@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Ing. Vincenzo Merangolo
+N:Merangolo;Vincenzo;;;Ing.
+ORG:TES Progettazione
+TITLE:Progettazione Meccanica e Automazione CAD
+TEL;TYPE=CELL:+393889086351
+EMAIL;TYPE=WORK:vincenzo.merangolo@tesprogettazione.com
+URL:https://www.tesprogettazione.com
+ADR;TYPE=WORK:;;Via Antonio Arcano N7;Gioia del Colle;BA;;Italia
+NOTE:TES Progettazione - Dal progetto al sistema
+X-SOCIALPROFILE;type=linkedin:https://it.linkedin.com/company/tesprogettazione
+X-SOCIALPROFILE;type=instagram:https://www.instagram.com/tesprogettazione/
+X-SOCIALPROFILE;type=facebook:https://www.facebook.com/tesprogettazione/
+X-SOCIALPROFILE;type=youtube:https://www.youtube.com/@TESPROGETTAZIONE
+END:VCARD
